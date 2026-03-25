@@ -1,6 +1,7 @@
 Hi there 👋 
 I'm **SODIQ**, a smart contract engineer and full-stack developer with a strong focus on Web3 infrastructure.
 I’ve been active in the crypto space for **over 7 years**, which has given me exposure to multiple market cycles and evolving narratives.
+
 Beyond development, I’m also deeply involved in **research**, **trading**, and **simplifying blockchain concepts** for broader audiences, which helps with onboarding and community growth.
 
 Recently, I’ve been paying close attention to emerging infrastructure projects, and I’m now focused on contributing more actively, particularly on the ecosystem growth and adoption side.
