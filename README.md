@@ -26,7 +26,8 @@ Recently, I’ve been paying close attention to emerging infrastructure projects
 * Become a Smart Contract **Auditor**
 * Deepen my knowledge in Smart Contract Security
 * Build an infrastructure that solves major problem on web3
-* Onboard devs into Web3
+* Show importance of health tech in web3
+* Onboard more devs into Web3
 
 ## **Tech Stack**
 * **Languages**: Rust, Solidity, TypeScript, Python
