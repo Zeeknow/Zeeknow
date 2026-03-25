@@ -25,7 +25,7 @@ Recently, I’ve been paying close attention to emerging infrastructure projects
 ## **Goals**
 * Become a Smart Contract **Auditor**
 * Deepen my knowledge in Smart Contract Security
-* Build an infrastructure that solves major problem on web3
+* Work on an infrastructure that solves major problem on web3
 * Show importance of health tech in web3
 * Onboard more devs into Web3
 
